@@ -1,9 +1,14 @@
-package com.Xenon3D.geometry
+package com.Xenon3D.Parsers
 {
 	import com.Xenon3D.math.X3Color;
 	
 	import flash.utils.ByteArray;
 	import flash.utils.Endian;
+	import com.Xenon3D.geometry.X3CommonMeshAttributes;
+	import com.Xenon3D.geometry.X3Mesh;
+	import com.Xenon3D.geometry.X3MeshAttributes;
+	import com.Xenon3D.geometry.X3MeshList;
+	import com.Xenon3D.geometry.X3VertexTypes;
 	
 	public class X3STLParser
 	{
