@@ -4,7 +4,7 @@ Xenon3D
 AS3 3D Graphics Engine
 
 This is my (In-development) Actionscript 3.0 3D library.
-It attempts to wrap Stage3D cleanly and concisely in an efficient and easy-to-use manner.
+It attempts to wrap Stage3D cleanly and concisely in an efficient, easy-to-use, and most importantly, NO-NONSENSE manner.
 
 Current features:
 -----------------
