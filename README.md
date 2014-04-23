@@ -8,7 +8,7 @@ It attempts to wrap Stage3D cleanly and concisely in an efficient, easy-to-use, 
 
 Current features:
 -----------------
-- Binary STL parsing
+- Binary STL parsing ( With asynchronous option! )
 - Stage3D context manager
 - Mesh management system
 - Resource management protocall
